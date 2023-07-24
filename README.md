@@ -1,6 +1,6 @@
-#this is my leetcode solutions 
+# this is my leetcode solutions 
 
-##here i solve the leetcode problems in many languages
-###(languages that ik ofc)
+## here i solve the leetcode problems in many languages
+### (languages that ik ofc)
 
-####hope u enjoy 
+#### hope u enjoy 
